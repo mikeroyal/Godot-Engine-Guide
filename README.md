@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="https://user-images.githubusercontent.com/45159366/130368380-37b7c0cd-ed71-4a52-8b16-4ac802e059d4.png">
+ <img src="https://user-images.githubusercontent.com/45159366/147890939-356a7e63-42d3-448c-9b53-2bc2e412e461.png">
   <br />
 Godot Engine Guide
 </h1>
@@ -9,7 +9,7 @@ Godot Engine Guide
 **Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
 
 <p align="center">
- <img src="https://user-images.githubusercontent.com/45159366/130368382-d4d693b1-263d-438c-988a-989d2454c712.png">
+ <img src="https://user-images.githubusercontent.com/45159366/147890949-3ef6d54a-1507-4ace-9379-f96df20559f7.png">
   <br />
 </p>
 
@@ -56,7 +56,7 @@ Godot Engine Guide
 [Godot Asset Library](https://godotengine.org/asset-library/asset)
 
 <p align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/147890951-0aa968e8-7651-4536-9148-afa40c7fea4f.png">
   <br />
   Godot Asset Library
 </p>
@@ -65,9 +65,9 @@ Godot Engine Guide
 
 [Godot Engine GitHub](https://github.com/godotengine)
 
-[GDNative](https://docs.godotengine.org/en/latest/tutorials/scripting/gdnative/what_is_gdnative.html#what-is-gdnative) is a Godot-specific technology that lets the engine interact with native [shared libraries](https://en.wikipedia.org/wiki/Library_(computing)#Shared_libraries) at run-time. You can use it to run native code without compiling it with the engine. GDNative is not a scripting language and has no relation to [GDScript](https://docs.godotengine.org/en/latest/tutorials/scripting/gdscript/gdscript_basics.html#doc-gdscript).
-
 [Supported languages for Godot Engine](https://docs.godotengine.org/en/latest/tutorials/scripting/gdnative/what_is_gdnative.html#supported-languages)
+
+[GDNative](https://docs.godotengine.org/en/latest/tutorials/scripting/gdnative/what_is_gdnative.html#what-is-gdnative) is a Godot-specific technology that lets the engine interact with native [shared libraries](https://en.wikipedia.org/wiki/Library_(computing)#Shared_libraries) at run-time. You can use it to run native code without compiling it with the engine. GDNative is not a scripting language and has no relation to [GDScript](https://docs.godotengine.org/en/latest/tutorials/scripting/gdscript/gdscript_basics.html#doc-gdscript).
 
 **Community supported languages for Godot Engine**
 
