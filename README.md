@@ -16,17 +16,17 @@ Godot Engine Guide
 
 # Table of Contents
 
-1. [Getting Started with Godot Engine](https://github.com/mikeroyal/Godot-Engine-Guide#Augmented-Reality-AR--Virtual-Reality-VR-learning-resources)
+1. [Getting Started with Godot Engine](https://github.com/mikeroyal/Godot-Engine-Guide#getting-started-with-godot-engine)
 
 2. [VS Code Development](https://github.com/mikeroyal/Godot-Engine-Guide#vs-code-development)
 
     - [VS Code Extensions for Developer Productivity](https://github.com/mikeroyal/Godot-Engine-Guide#vs-code-Extensions-for-Developer-Productivity)
 
-3. [Xcode Development](https://github.com/mikeroyal/Godot-Engine-Guide#)
+3. [Xcode Development](https://github.com/mikeroyal/Godot-Engine-Guide#xcode-development)
 
 4. [Game Development](https://github.com/mikeroyal/Godot-Engine-Guide#game-development)
 
-5. [Augmented Reality (AR) & Virtual Reality (VR) ](https://github.com/mikeroyal/Godot-Engine-Guide#Augmented-Reality-AR--Virtual-Reality-VR-tools-and-frameworks)
+5. [Augmented Reality (AR) & Virtual Reality (VR) ](https://github.com/mikeroyal/Godot-Engine-Guide#augmented-reality-ar--virtual-reality-vr)
 
 6. [Vulkan Development](https://github.com/mikeroyal/Godot-Engine-Guide#vulkan-development)
 
@@ -40,7 +40,7 @@ Godot Engine Guide
 
 11. [Networking](https://github.com/mikeroyal/Godot-Engine-Guide#networking)
 
-# Getting Started with Godot
+# Getting Started with Godot Engine
 [Back to the Top](https://github.com/mikeroyal/Godot-Engine-Guide#table-of-contents)
 
 [Godot Engine](https://godotengine.org/) is a feature-packed, cross-platform game engine to create 2D and 3D games from a unified interface. It provides a comprehensive set of common tools, so that you can focus on making games without having to reinvent the wheel. Checkout the [Godot Engine Documentation](https://docs.godotengine.org/) for moe info.
